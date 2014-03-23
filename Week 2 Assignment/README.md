@@ -1,4 +1,5 @@
 Lab - The Activity Class: Instructions
+====
 
 In this lab you will experiment with the Activity Class.
 
